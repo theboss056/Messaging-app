@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "320185282068",
+    "firebase_url": "https://messagingapp-f2b01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "messagingapp-f2b01",
+    "storage_bucket": "messagingapp-f2b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320185282068:android:14cd092c8c1b330331c101",
+        "android_client_info": {
+          "package_name": "com.example.messagingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WAjKYDp2XwU5_Pa6E50tDE2yVzBIbC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
